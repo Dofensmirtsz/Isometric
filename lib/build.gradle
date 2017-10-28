@@ -92,7 +92,7 @@ bintray {
         name = 'Isometric'
         userOrg = user
         licenses = ['Apache-2.0']
-        vcsUrl = 'https://github.com/FabianTerhorst/Isometric.git'
+        vcsUrl = 'https://github.com/Dofensmirtsz/Isometric.git'
         publish = true
     }
 }
