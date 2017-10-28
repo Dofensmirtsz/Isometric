@@ -70,6 +70,7 @@ public class IsometricView extends View {
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
+        canvas.translate(0.64);
         isometric.draw(canvas);
     }
 
